@@ -8,8 +8,6 @@
   "authors": [
     "Shutdoor"
   ],
-  "contact": {
-  },
 
   "license": "CC0-1.0",
   "icon": "assets/CCLogo.png",
@@ -23,7 +21,8 @@
   "depends": {
     "fabricloader": ">=0.13.3",
     "fabric": "*",
-    "minecraft": "1.17.1"
+    "minecraft": "1.18.1",
+    "java": ">=17"
   },
   "suggests": {
   }
