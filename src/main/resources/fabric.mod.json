@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "coalchunks",
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "name": "Coal Chunks [Fabric]",
   "description": "Making Large, Medium, and Small Coal and Charcoal Chunks.",
